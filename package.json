@@ -17,7 +17,7 @@
     "dedent": "^0.7.0",
     "lodash": "^4.17.15",
     "npmlog": "^4.1.2",
-    "yargs": "^15.0.2"
+    "yargs": "^15.3.1"
   },
   "devDependencies": {
     "require-inject": "^1.4.4",
